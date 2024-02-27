@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371838278676",
+    "project_id": "foodieapp-4b605",
+    "storage_bucket": "foodieapp-4b605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371838278676:android:5c9e1a63b9ff32b62e9b01",
+        "android_client_info": {
+          "package_name": "com.jakubpajak.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwS0u810NOnfyYDrfYoXInLPK7Y7A15H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
